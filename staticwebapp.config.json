@@ -8,11 +8,5 @@
       "/.well-known/*",
       "/apple-app-site-association"
     ]
-  },
-  "responseOverrides": {
-    "apple-app-site-association": {
-      "contentType": "application/json",
-      "statusCode": 200
-    }
   }
 }
