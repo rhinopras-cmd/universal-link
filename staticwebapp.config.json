@@ -1,11 +1,4 @@
 {
-  "navigationFallback": {
-    "rewrite": "/index.html",
-    "exclude": [
-      "/.well-known/*",
-      "/apple-app-site-association"
-    ]
-  },
   "mimeTypes": {
     ".json": "application/json"
   }
