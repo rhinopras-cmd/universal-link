@@ -1,0 +1,25 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "WM47H4F624.id.astra.tso.sam.sap.qa",
+        "paths": [
+          "/universal_deep/.well-known/*"
+        ]
+      },
+      {
+        "appID": "WM47H4F624.id.astra.tso.sam.sap.utt",
+        "paths": [
+          "/universal_deep/.well-known/*"
+        ]
+      },
+      {
+        "appID": "WM47H4F624.id.astra.tso.sam.sap",
+        "paths": [
+          "/universal_deep/.well-known/*"
+        ]
+      }
+    ]
+  }
+}
