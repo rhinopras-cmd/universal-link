@@ -1,6 +1,7 @@
 {
   "mimeTypes": {
     ".json": "application/json",
+    ".": "application/json",
     "apple-app-site-association": "application/json"
   },
   "navigationFallback": {
