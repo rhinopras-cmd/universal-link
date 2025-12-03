@@ -1,6 +1,7 @@
 {
   "mimeTypes": {
-    ".json": "application/json"
+    ".json": "application/json",
+    "apple-app-site-association": "application/json"
   },
   "navigationFallback": {
     "rewrite": "/index.html",
@@ -8,11 +9,5 @@
       "/.well-known/*",
       "/apple-app-site-association"
     ]
-  },
-  "responseOverrides": {
-    "apple-app-site-association": {
-      "contentType": "application/json",
-      "statusCode": 200
-    }
   }
 }
