@@ -2,7 +2,7 @@
   "navigationFallback": {
     "rewrite": "/index.html",
     "exclude": [
-      "/.well-known/*",
+      "universal-link/.well-known/*",
       "/apple-app-site-association"
     ]
   },
